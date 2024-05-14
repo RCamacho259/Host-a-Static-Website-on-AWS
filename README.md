@@ -1,7 +1,7 @@
 **Project: Hosting a Static Website on AWS**
 
 
-![Alt-text](/Host_a_Static_Website_on_AWS.png
+![Alt-text](/Host_a_Static_Website_on_AWS.png/)
 ---
 
 ### Overview
